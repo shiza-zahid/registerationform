@@ -1,0 +1,18 @@
+body{
+	
+	
+	background-image: url(black.jpg); 
+	opacity: 0.1px;
+	background-size: cover;
+	background-position: center;
+	
+	
+	
+}
+.container{
+	background: no-repeat;
+	align-content: center;
+	text-align: center;
+	color: white;
+	font-family: serif;
+}
